@@ -7,7 +7,7 @@
 🔥 Full-stack developer working with **MERN** & **Java/Spring Boot**  
 🧠 Love building **AI-powered**, **event-driven**, and **microservices**-based applications  
 💡 Always exploring **Data Structures & Algorithms** and system design  
-📌 Currently working on **patient management systems**  
+📌 Currently working on **patient management system**  
 🤝 Open to collaborating on **real-world, impactful projects**  
 
 ---
